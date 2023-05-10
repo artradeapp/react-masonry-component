@@ -1,4 +1,4 @@
-name: Publish Artrade Design System package to GitHub Packages
+name: Publish react-masonry-component fork package to GitHub Packages
 
 on:
   release:
