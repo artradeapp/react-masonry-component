@@ -5,7 +5,7 @@
   "description": "A masonry component for React.js",
   "typings": "typings.d.ts",
   "publishConfig": {
-    "@Alex_ALTP:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
     "create-react-class": "^15.6.2",
